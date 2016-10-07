@@ -1,0 +1,5 @@
+.idea/
+Tofi/settings.py
+node_modules/
+manage.py
+*.pyc
