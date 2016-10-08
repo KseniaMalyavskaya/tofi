@@ -4,3 +4,4 @@ node_modules/
 manage.py
 db.sqlite3
 *.pyc
+*.css
