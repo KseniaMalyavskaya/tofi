@@ -2,4 +2,5 @@
 Tofi/settings.py
 node_modules/
 manage.py
+db.sqlite3
 *.pyc
